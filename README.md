@@ -1,16 +1,49 @@
-# nepal README
+# Nepal VS Code Theme
+<p align="center">
+  <img alt="Halcyon Logo" src="https://raw.githubusercontent.com/sabinmhx/nepal-vscode/master/images/logo.png" width="100" />
+</p>
+<h1 align="center">
+  Halcyon Theme for VS Code
+</h1>
+<p align="center">
+  A minimal, dark blue theme for <a href="https://halcyon-theme.netlify.com/">VS Code, Sublime Text, Atom, and more</a>.
+</p>
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
+    <img alt="Version" src="https://img.shields.io/visual-studio-marketplace/v/brittanychiang.halcyon-vscode?color=brightgreen" />
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
+    <img alt="Downloads" src="https://img.shields.io/visual-studio-marketplace/d/brittanychiang.halcyon-vscode" />
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
+    <img alt="Installs" src="https://img.shields.io/visual-studio-marketplace/i/brittanychiang.halcyon-vscode" />
+  </a>
+</p>
 
-## Working with Markdown
+![demo](https://raw.githubusercontent.com/sabinmhx/nepal-vscode/master/images/screenshot.png)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Installation via VS Code
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
+2. Search for `Nepal`
+3. Click **Install** to install it
+4. Click **Reload** to reload the editor
+5. Code > Preferences > Color Theme > **Nepal**
 
-## For more information
+## Manual Installation
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Read the [VSC Extension Quickstart Guide](https://github.com/sabinmhx/nepal-vscode/blob/master/vsc-extension-quickstart.md)
+
+## Theming Reference
+
+[VS Code Theme Color Reference](https://code.visualstudio.com/docs/getstarted/theme-color-reference)
+
+[VS Code Theme Documentation](https://code.visualstudio.com/docs/extensions/themes-snippets-colorizers)
+
+[VS Code Publishing Extensions](https://code.visualstudio.com/docs/extensions/publish-extension)
+
+```bash
+vsce publish patch/minor/major
+```
 
 **Enjoy!**
