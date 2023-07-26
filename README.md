@@ -1,22 +1,22 @@
 # Nepal VS Code Theme
 <p align="center">
-  <img alt="Halcyon Logo" src="https://raw.githubusercontent.com/sabinmhx/nepal-vscode/master/images/logo.png" width="100" />
+  <img alt="Nepal Logo" src="https://raw.githubusercontent.com/sabinmhx/nepal-vscode/master/images/logo.png" width="100" />
 </p>
 <h1 align="center">
   Halcyon Theme for VS Code
 </h1>
 <p align="center">
-  A minimal, dark blue theme for <a href="https://halcyon-theme.netlify.com/">VS Code, Sublime Text, Atom, and more</a>.
+  A dark country blue, red and white theme for <a href="https://halcyon-theme.netlify.com/">VS Code</a>.
 </p>
 <p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
-    <img alt="Version" src="https://img.shields.io/visual-studio-marketplace/v/brittanychiang.halcyon-vscode?color=brightgreen" />
+  <a href="https://marketplace.visualstudio.com/items?itemName=nepal-vscode">
+    <img alt="Version" src="https://img.shields.io/visual-studio-marketplace/v/nepal-vscode?color=brightgreen" />
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
-    <img alt="Downloads" src="https://img.shields.io/visual-studio-marketplace/d/brittanychiang.halcyon-vscode" />
+    <img alt="Downloads" src="https://img.shields.io/visual-studio-marketplace/d/nepal-vscode" />
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
-    <img alt="Installs" src="https://img.shields.io/visual-studio-marketplace/i/brittanychiang.halcyon-vscode" />
+    <img alt="Installs" src="https://img.shields.io/visual-studio-marketplace/i/nepal-vscode" />
   </a>
 </p>
 
