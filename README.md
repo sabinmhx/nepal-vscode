@@ -3,7 +3,7 @@
   <img alt="Nepal Logo" src="https://raw.githubusercontent.com/sabinmhx/nepal-vscode/master/images/logo.png" width="100" />
 </p>
 <h1 align="center">
-  Halcyon Theme for VS Code
+  Nepal Theme for VS Code
 </h1>
 <p align="center">
   A dark country blue, red and white theme for <a href="https://halcyon-theme.netlify.com/">VS Code</a>.
