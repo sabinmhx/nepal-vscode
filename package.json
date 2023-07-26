@@ -1,8 +1,23 @@
 {
   "name": "nepal",
-  "displayName": "nepal",
-  "description": "Nepalese Theme Colors",
+  "displayName": "Nepal",
+  "description": "Dark Nepalese Theme Colors",
   "version": "0.0.1",
+  "publisher": "sabinmhx",
+  "icon": "images/logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sabinmhx/nepal-vscode"
+  },
+  "author": {
+    "name": "Sabin Maharjan",
+    "email": "sabinmhx@gmail.com"
+  },
+  "homepage": "https://github.com/sabinmhx/nepal-vscode/README.md",
+  "galleryBanner": {
+    "color": "#171c28",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.80.0"
   },
