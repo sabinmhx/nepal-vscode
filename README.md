@@ -6,7 +6,7 @@
   Nepalese Theme for VS Code
 </h1>
 <p align="center">
-  A dark country blue, red and white theme for <a href="https://halcyon-theme.netlify.com/">VS Code</a>.
+  A dark country blue, red and white theme for VS Code.
 </p>
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=nepal-vscode">
